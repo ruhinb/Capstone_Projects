@@ -1,0 +1,12 @@
+
+Project Objectives
+
+1. Construct and preprocess datasets suitable for analysis, including:
+	•	the Beyond Blue mental-health forum dataset of posts and comments, and
+	•	a curated dataset of Australian natural disaster events with harmonised time windows and standardised disaster-type labels.
+
+2. Apply transformer-based emotion models to extract emotional signals and project them into the Circumplex Model of Affect for interpretable affective analysis.
+
+3. Examine temporal changes in users’ emotional states across post sequences, identifying patterns of improvement, deterioration, or stability in community interactions.
+
+4. Investigate how natural disaster contexts influence emotional expression, using comparative analyses across disaster phases and interrupted-time-series modelling.

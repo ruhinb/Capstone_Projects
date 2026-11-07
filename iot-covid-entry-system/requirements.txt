@@ -1,0 +1,13 @@
+# Raspberry Pi OS, Python 3.7 (the version the project ran on).
+# smbus and RPi.GPIO usually come with Raspberry Pi OS; install with apt if missing:
+#   sudo apt install python3-smbus python3-rpi.gpio
+# Enable I2C, SPI and the camera in raspi-config before running.
+
+mfrc522
+gpiozero
+adafruit-circuitpython-mlx90614
+tensorflow
+opencv-python
+imutils
+numpy
+pyrebase4

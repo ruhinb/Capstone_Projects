@@ -1,0 +1,19 @@
+# Notebooks 02-04 and 06-08 run on a laptop. Notebook 05 (transformer scoring)
+# needs a GPU; I ran it on Google Colab.
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+networkx
+nltk
+textblob
+emoji
+wordcloud
+torch
+transformers
+# Notebook 01 (scraper) only
+selenium
+webdriver-manager
+beautifulsoup4

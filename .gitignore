@@ -1,0 +1,19 @@
+# macOS and iCloud
+.DS_Store
+.git.nosync
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Private settings for the IoT project
+iot-covid-entry-system/src/config.py
+
+# Beyond Blue data stays local: it contains forum usernames and post text
+beyond-blue-emotional-shifts/data/*
+!beyond-blue-emotional-shifts/data/README.md
+
+# Zips and other downloads
+*.zip

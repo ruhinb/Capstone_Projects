@@ -127,7 +127,7 @@ iot-covid-entry-system
 
 ## Credits
 
-The mask detector is adapted from Adrian Rosebrock's PyImageSearch tutorial, the face detection model comes from OpenCV, and the oximeter driver is Martin Fitzpatrick's max30100 library. Details and links are in [`CREDITS.md`](CREDITS.md).
+The mask detector is adapted from a PyImageSearch tutorial, the face detector is OpenCV's pretrained model, and the oximeter driver is the open-source max30100 library. Details and links are in [CREDITS.md](CREDITS.md).
 
 ## Author
 

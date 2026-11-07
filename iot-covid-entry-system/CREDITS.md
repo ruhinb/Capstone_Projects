@@ -4,7 +4,7 @@ This project builds on the open-source work below. Each part is used under its a
 
 ## Face mask detection
 
-`src/Face_mask_detection/detect_mask_video.py` is adapted from Adrian Rosebrock's tutorial [COVID-19: Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning](https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/) (PyImageSearch, 2020). The tutorial fine-tunes MobileNetV2 on a two-class mask dataset created by Prajna Bhandary. We changed the script to run for a fixed 10 seconds and return a mask or no-mask result to the main program instead of streaming indefinitely.
+`src/Face_mask_detection/detect_mask_video.py` is adapted from the PyImageSearch tutorial [COVID-19: Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning](https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/). The tutorial fine-tunes MobileNetV2 on a two-class mask dataset created by Prajna Bhandary. We changed the script to run for 10 seconds and return a mask or no-mask result to the main program.
 
 ## Face detector model
 

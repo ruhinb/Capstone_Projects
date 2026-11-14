@@ -131,5 +131,5 @@ The mask detector is adapted from a PyImageSearch tutorial, the face detector is
 
 ## Author
 
-**Rubaiyat Alam Ruhin**  
-[LinkedIn](https://linkedin.com/in/rubaiyatalamruhin) · [GitHub](https://github.com/ruhinb) · rubaiyatalam.ruhin@gmail.com
+**Rubaiyat (Ru) Ruhin**  
+[rubaiyat.dev](https://rubaiyat.dev) · [LinkedIn](https://linkedin.com/in/rubaiyatalamruhin) · [GitHub](https://github.com/ruhinb) · rubaiyatalam.ruhin@gmail.com

@@ -54,5 +54,5 @@ The Beyond Blue posts are public, but they are written by people at difficult mo
 
 ## Author
 
-**Rubaiyat Alam Ruhin**  
-[LinkedIn](https://linkedin.com/in/rubaiyatalamruhin) · [GitHub](https://github.com/ruhinb) · rubaiyatalam.ruhin@gmail.com
+**Rubaiyat (Ru) Ruhin**  
+[rubaiyat.dev](https://rubaiyat.dev) · [LinkedIn](https://linkedin.com/in/rubaiyatalamruhin) · [GitHub](https://github.com/ruhinb) · rubaiyatalam.ruhin@gmail.com

@@ -218,5 +218,5 @@ The papers that shaped the method, and the models and datasets it uses, are list
 
 ## Author
 
-**Rubaiyat Alam Ruhin**, Master of Data Science, University of Adelaide  
-[LinkedIn](https://linkedin.com/in/rubaiyatalamruhin) · [GitHub](https://github.com/ruhinb) · rubaiyatalam.ruhin@gmail.com
+**Rubaiyat (Ru) Ruhin**, Master of Data Science, University of Adelaide  
+[rubaiyat.dev](https://rubaiyat.dev) · [LinkedIn](https://linkedin.com/in/rubaiyatalamruhin) · [GitHub](https://github.com/ruhinb) · rubaiyatalam.ruhin@gmail.com
